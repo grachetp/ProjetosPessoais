@@ -1,0 +1,11 @@
+C:\Users\Pedro Grachet\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Pedro Grachet\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Pedro Grachet\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Pedro Grachet\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Pedro Grachet\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Grachet\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Pedro Grachet\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Pedro Grachet\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.manifest
+C:\Users\Pedro Grachet\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.application
+C:\Users\Pedro Grachet\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe.manifest
+C:\Users\Pedro Grachet\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.application

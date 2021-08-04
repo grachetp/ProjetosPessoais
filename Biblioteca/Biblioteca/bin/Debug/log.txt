@@ -1,0 +1,13 @@
+Ação: Login - partner - Data: 04/08/2020 00:00:00
+Ação: Cadastro de Livro - O Menino do Pijama Listrado - Data: 04/08/2020 00:00:00
+Ação: Cadastro de Usuario - pao - Data: 04/08/2020 00:00:00
+Ação: Login - partner - Data: 04/08/2020 00:00:00
+Ação: Tentativa de Login - pedro - Data: 04/08/2020 00:00:00
+Ação: Login - partner - Data: 04/08/2020 00:00:00
+Ação: Cadastro de Usuario - grachet - Data: 04/08/2020 00:00:00
+Ação: Login - grachet - Data: 04/08/2020 00:00:00
+Ação: Tentativa de Login - pedro - Data: 04/08/2020 00:00:00
+Ação: Login - partner - Data: 04/08/2020 00:00:00
+Ação: Login - partner - Data: 04/08/2020 00:00:00
+Ação: Tentativa de Login - partnet - Data: 04/08/2020 00:00:00
+Ação: Login - partner - Data: 04/08/2020 00:00:00

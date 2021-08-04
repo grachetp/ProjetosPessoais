@@ -1,0 +1,10 @@
+C:\Users\pedro\Documents\GitHub\ArduinoWithCSharp\ArduinoWithCSharp\bin\Debug\ArduinoWithCSharp.exe.config
+C:\Users\pedro\Documents\GitHub\ArduinoWithCSharp\ArduinoWithCSharp\bin\Debug\ArduinoWithCSharp.exe
+C:\Users\pedro\Documents\GitHub\ArduinoWithCSharp\ArduinoWithCSharp\bin\Debug\ArduinoWithCSharp.pdb
+C:\Users\pedro\Documents\GitHub\ArduinoWithCSharp\ArduinoWithCSharp\obj\Debug\ArduinoWithCSharp.csprojAssemblyReference.cache
+C:\Users\pedro\Documents\GitHub\ArduinoWithCSharp\ArduinoWithCSharp\obj\Debug\ArduinoWithCSharp.Form1.resources
+C:\Users\pedro\Documents\GitHub\ArduinoWithCSharp\ArduinoWithCSharp\obj\Debug\ArduinoWithCSharp.Properties.Resources.resources
+C:\Users\pedro\Documents\GitHub\ArduinoWithCSharp\ArduinoWithCSharp\obj\Debug\ArduinoWithCSharp.csproj.GenerateResource.cache
+C:\Users\pedro\Documents\GitHub\ArduinoWithCSharp\ArduinoWithCSharp\obj\Debug\ArduinoWithCSharp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\GitHub\ArduinoWithCSharp\ArduinoWithCSharp\obj\Debug\ArduinoWithCSharp.exe
+C:\Users\pedro\Documents\GitHub\ArduinoWithCSharp\ArduinoWithCSharp\obj\Debug\ArduinoWithCSharp.pdb
