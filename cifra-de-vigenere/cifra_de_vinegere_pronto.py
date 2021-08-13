@@ -27,3 +27,5 @@ else:
         else:
             frase_processada += ' '
     print("Frase processada: {}".format(frase_processada))
+
+    #atualizando
